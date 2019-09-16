@@ -18,6 +18,10 @@ $(function() {
     let questionIndex = 0;
 
 
+    $('#instruction').html(instruction);
+    $('#instruction').css({color:instructionColor});
+
+
 
 
     // get the variable from url

@@ -4,6 +4,10 @@ const borderColor = '10px solid rgb(43, 130, 108)';
 const header = 'MCQ';
 const headerColor = '#ddd';
 let questPerPage = 2;
+
+const instruction = "choose the correct answer";
+const instructionColor = "#fff";
+
 const data = [
 	{
 		'question' : 'We should eat out food ourself.',
